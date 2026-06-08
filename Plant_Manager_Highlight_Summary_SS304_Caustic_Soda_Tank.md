@@ -56,18 +56,3 @@ The biggest concern is that the report recommends Falkor/FES mainly on price, wh
 ## Management Message
 
 Falkor/FES may still be the lowest-cost vendor, but **lowest price is not enough for Jurong Island chemical storage**. The project should proceed only after regulatory permits, foundation design, API 650 compliance, process safety, and contract protections are fully confirmed.
-
----
-
-## Complete Missing Scope Exposure
-
-A separate full missing-scope register has been added for leadership review:
-
-- `Complete_Missing_Scope_Table_SS304_Caustic_Soda_Tank.md`
-- 95 total missing items
-- 57 RED critical items
-- 32 AMBER high items
-- 2 YELLOW medium items
-- 4 GREEN low items
-
-Use this register as the master checklist before PO approval.

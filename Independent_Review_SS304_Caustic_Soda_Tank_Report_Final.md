@@ -233,18 +233,3 @@ The original report lists 7 clarifications for Falkor. The **client must also ob
 **Status:** Final – for internal governance and procurement committee review
 
 *This review does not constitute legal advice. Client should seek independent legal and permitting advice for Singapore regulations.*
-
----
-
-## 11. Additional Attachment – Complete Missing Scope Table
-
-A separate complete missing-scope register has been added for Plant Manager and senior leadership review:
-
-- `Complete_Missing_Scope_Table_SS304_Caustic_Soda_Tank.md`
-- 95 total missing items
-- 57 RED critical items
-- 32 AMBER high items
-- 2 YELLOW medium items
-- 4 GREEN low items
-
-Use the complete register as the master pre-PO checklist together with this final review.
