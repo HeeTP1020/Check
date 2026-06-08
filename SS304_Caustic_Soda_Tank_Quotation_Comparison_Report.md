@@ -1,9 +1,9 @@
 # SS304 Caustic Soda Storage Tank — Quotation Comparison & Technical Review Report
 
-**Project:** 2 Nos. SS304 Caustic Soda Storage Tanks (1,600 m³ each) — 91 Sakra Avenue, Jurong Island  
-**Client:** CI Manufacturing Pte Ltd / Chemical Industries (Far East) Limited  
-**Report Date:** 8 June 2026  
-**Prepared by:** Senior Tank Engineering & Procurement Review  
+**Project:** 2 Nos. SS304 Caustic Soda Storage Tanks (1,600 m³ each) — 91 Sakra Avenue, Jurong Island
+**Client:** CI Manufacturing Pte Ltd / Chemical Industries (Far East) Limited
+**Report Date:** 8 June 2026
+**Prepared by:** Senior Tank Engineering & Procurement Review
 **Status:** DRAFT FOR CLIENT REVIEW
 
 ---
@@ -21,6 +21,8 @@ Three quotations have been received for the design, supply, fabrication, erectio
 
 > **Bottom line:** Falkor (FES) is recommended for award at SGD 2,770,000, representing a saving of SGD 1,298,000–1,330,000 vs. the other vendors. However, **seven critical clarifications must be obtained and confirmed in writing before PO issuance.** The most serious concerns are the pile count (20 vs. 74–125 from competitors) and the NDT method (PT only is non-compliant with API 650 Section 8 for vertical shell welds).
 
+> **Update from supplied FES slide content:** The slide deck states tank ID 11,450 mm, height 15,400 mm, capacity 1,600 m³ × 2 nos., bundwall height 2,100 mm, piping SS304L Sch-80 3" at 200m × 2 lines, 20 piles per tank, and 1,700 mm ground-level-to-tank-bottom piling height. These values have been reflected below, while remaining design-basis gaps are still flagged for clarification.
+
 ---
 
 ## SECTION 1 — VENDOR COMPARISON TABLE
@@ -32,8 +34,8 @@ Three quotations have been received for the design, supply, fabrication, erectio
 | **Addressed to** | Mr. Steven Wong, CI Manufacturing | Mr. Chong, Chemical Industries (FE) | Mr. Chong Yung Quan, CI Manufacturing |
 | **Tank Quantity** | 2 nos. | 2 nos. | 2 nos. |
 | **Nominal Capacity** | 1,600 m³ each | 1,600 m³ each | 1,600 m³ each |
-| **Tank Diameter** | **Not stated** (to be designed) | 10 m (stated) | 10 m (stated) |
-| **Tank Height** | **Not stated** (to be determined) | 20.5 m (stated) | 23 m overall (stated) |
+| **Tank Diameter** | **11,450 mm ID** (per FES slide content; final design to confirm) | 10 m (stated) | 10 m (stated) |
+| **Tank Height** | **15,400 mm** (per FES slide content; shell vs. overall height to confirm) | 20.5 m (stated) | 23 m overall (stated) |
 | **Design Code** | API 650 (edition not stated) | Not stated (ref. BQ only) | **API 650, 13th Ed., March 2020** |
 | **Material — Shell** | A240-304L | SS304 (grade 'L' not confirmed) | **SS304L** |
 | **Material — Roof** | A240-304 (implied) | SS304 (implied) | SS304L (implied) |
@@ -62,12 +64,12 @@ Three quotations have been received for the design, supply, fabrication, erectio
 | **ITP / QCP** | ITP mentioned (API 650 basis) | Not mentioned | Not mentioned |
 | **MDR / Data Book** | **Included** | Not mentioned | Not mentioned |
 | **Tank Survey & Calibration** | Included (SGD 5,000/tank) | Not mentioned | Not mentioned |
-| **Piping Works** | 3" Sch-80 SS304L, 200m × 2 lines included | SS pipeline included (SGD 98,000) | Not in scope |
-| **Civil — Piling** | **20 piles per tank** (type not stated) | 74 micropiles/tank (200mm × 33m) | 125 piles/tank (200mm sq. × 12m jack-in) |
+| **Piping Works** | 3" Sch-80 SS304L, **200m × 2 lines** included | SS pipeline included (SGD 98,000) | Not in scope |
+| **Civil — Piling** | **20 piles per tank**; tank-bottom piling height **1,700 mm** from ground level (pile type not stated) | 74 micropiles/tank (200mm × 33m) | 125 piles/tank (200mm sq. × 12m jack-in) |
 | **Civil — Foundation** | RC foundation (spec not stated) | 350mm RC slab | 400mm RC (17m × 30m) |
-| **Civil — Bund Wall** | Included (spec not stated) | 2.2m H × 200mm (with L-footing) | 4m H × 250mm (17m × 30m) |
+| **Civil — Bund Wall** | **2,100 mm H** (thickness/design details not stated) | 2.2m H × 200mm (with L-footing) | 4m H × 250mm (17m × 30m) |
 | **Insurance** | Not explicitly stated | CAR + PL included (SGD 15,000) | **Project Insurance included** |
-| **Authority Submissions** | Included (PE endorsement) | JTC, URA, BCA, SCDF, LTA, NParks, NEA, PUB | BCA, PE submission included |
+| **Authority Submissions** | Included (PE endorsement); engineering contractor stated as K P Koh & Partners Pte Ltd in FES slide content | JTC, URA, BCA, SCDF, LTA, NParks, NEA, PUB | BCA, PE submission included |
 | **Project Schedule** | 36-week program (Jul 2026–Mar 2027) | Not provided | TBA upon Order Confirmation |
 | **Delivery Period** | ~9 months (Week 40 = Mar 2027) | Not stated | **TBA — not committed** |
 | **Quotation Validity** | 30 days | 30 days | **14 days only** |
@@ -76,6 +78,21 @@ Three quotations have been received for the design, supply, fabrication, erectio
 | **Liquidated Damages** | Not stated | **Explicitly excluded** | Not stated |
 | **Warranty** | Not stated | Not stated | Not stated |
 | **GRAND TOTAL (SGD excl. GST)** | **2,770,000** | **4,068,000** | **4,100,000** |
+
+### 1.1 FES Contractor Details from Supplied Slide Content
+
+| Discipline / Scope | Contractor / Source Stated |
+|---|---|
+| Mechanical | Falkor Engineering Services Pte Ltd |
+| Civil | Falkor Engineering Services Pte Ltd |
+| Scaffolding | Falkor Engineering Services Pte Ltd |
+| Painting | Falkor Engineering Services Pte Ltd |
+| Engineering | K P Koh & Partners Pte Ltd |
+| E&I | Radiant Electrical Pte Ltd |
+| NDT | SNDT |
+| Calibration | SNDT |
+| Crane | Denzai |
+| Hydrotest water | PUB water for tank hydrotest |
 
 ---
 
@@ -300,9 +317,9 @@ Three quotations have been received for the design, supply, fabrication, erectio
 
 | # | Vendor | Issue | Risk |
 |---|---|---|---|
-| P-01 | **Falkor (FES)** | Tank dimensions (diameter and height) not stated. Final design not yet done. This creates scope ambiguity and potential for cost escalation or design changes post-PO. | Cost and scope variation risk |
+| P-01 | **Falkor (FES)** | FES slide content states tank ID 11,450 mm and height 15,400 mm, but the gross cylinder volume is only ~1,586 m³ before any freeboard allowance. The 1,600 m³ capacity and required freeboard therefore still need final design confirmation. | Capacity/freeboard shortfall or design change risk |
 | P-02 | **Falkor (FES)** | "Hydrofluoric Acid cleaning for weld marks" is not a substitute for full passivation per ASTM A380. Passivation removes the heat-tint and restores the chromium oxide passive layer critical for corrosion resistance in caustic soda service. | Premature corrosion; reduced asset life |
-| P-03 | **Falkor (FES)** | Painting budget of SGD 12,500 per tank is very low for a 10m × 20m stainless steel tank. Painting specification is not stated. For SS304 tanks in tropical coastal environment, surface preparation and coating system must be defined. | Poor corrosion protection; rework risk |
+| P-03 | **Falkor (FES)** | Painting budget of SGD 12,500 per tank is very low for an approximately 11.45m ID × 15.4m high stainless steel tank. Painting specification is not stated. For SS304 tanks in tropical coastal environment, surface preparation and coating system must be defined. | Poor corrosion protection; rework risk |
 | P-04 | **Credo** | Specifies "SS304" without confirming the "L" (low carbon) grade. For welded construction in caustic service, 304L (max 0.030% carbon vs. 0.080% for standard 304) is essential to prevent sensitization at weld heat-affected zones. | Intergranular corrosion risk in HAZ |
 | P-05 | **Credo** | Passivation material to be "provided by CIL." This splits responsibility: Credo applies, CIL supplies. If passivation quality fails, both parties will dispute accountability. | Accountability gap; incomplete treatment risk |
 | P-06 | **Credo** | Bund wall at 2.2m high vs. Synergex at 4.0m high. The required bund wall height should be established by the process engineer based on NaOH inventory retention volume and regulatory (NEA/SCDF) requirements. 2.2m may be insufficient. | Regulatory non-compliance |
@@ -315,7 +332,7 @@ Three quotations have been received for the design, supply, fabrication, erectio
 
 | # | Vendor | Clarification Needed |
 |---|---|---|
-| CL-01 | **Falkor (FES)** | Confirm tank diameter and height. Confirm API 650 edition and design basis. |
+| CL-01 | **Falkor (FES)** | Confirm API 650 edition and design basis; reconcile the stated 11,450 mm ID and 15,400 mm height with 1,600 m³ capacity and required freeboard. |
 | CL-02 | **Falkor (FES)** | Confirm that RT or UT (not PT only) will be used for vertical shell butt welds per API 650 §8.1. Provide NDT plan/extent. |
 | CL-03 | **Falkor (FES)** | Confirm pile type, diameter, length, design load per pile, and basis for selecting 20 piles. Provide geotechnical reference. |
 | CL-04 | **Falkor (FES)** | Confirm painting specification (surface prep grade, primer and topcoat system, DFT, and standard). |
@@ -354,7 +371,8 @@ This section deserves special attention because the pile count discrepancy betwe
 | Piles per tank | **20** | **74** | **125** |
 | Total piles (2 tanks) | **40** | **148** | **250** |
 | Foundation slab thickness | Not stated | 350mm RC | 400mm RC |
-| Bund wall height | Not stated | 2.2m | 4.0m |
+| Ground level to tank bottom piling height | **1,700 mm** | Not stated | Not stated |
+| Bund wall height | **2.1m** | 2.2m | 4.0m |
 | Bund wall thickness | Not stated | 200mm (L-footing) | 250mm |
 | Bund plan area | Not stated | Not stated | 17m × 30m |
 | Soil investigation | Topographic survey included | Not stated | Not stated |
@@ -365,11 +383,12 @@ This section deserves special attention because the pile count discrepancy betwe
 
 **Engineering Assessment of Pile Count:**
 
-For a 1,600 m³ SS304L tank at 10m diameter:
+For a 1,600 m³ SS304L tank at the FES-stated 11,450 mm ID and 15,400 mm height:
 - Tank empty weight (shell + roof + bottom + nozzles + accessories): approximately 85–90 tonnes = ~850–900 kN
 - Operating fluid weight (NaOH, SG ~1.36): 1,600 m³ × 1,360 kg/m³ = 2,176 tonnes = 21,300 kN
 - Hydrotest weight (water, SG 1.0): 1,600 m³ × 1,000 = 1,600 tonnes = 15,700 kN
-- Total foundation load at hydrotest: ~16,600 kN distributed over 78.5 m² base
+- Total foundation load at hydrotest: ~16,600 kN distributed over ~103 m² base
+- Geometry check: 11.45m ID × 15.4m straight height gives ~1,586 m³ gross cylinder volume before freeboard, so FES must confirm the final shell height/roof geometry and usable capacity
 
 For Jurong Island reclaimed land (typically marine clay with poor bearing capacity), the foundation design must account for:
 - Weak, compressible marine clay stratum (can extend 20–40m depth)
@@ -459,7 +478,7 @@ Only **Falkor (FES)** has provided a project schedule.
 
 ### 10.1 Recommended Vendor: Falkor Engineering Services Pte Ltd (FES)
 
-**Recommended Award Value:** SGD 2,770,000 (+ 9% GST)  
+**Recommended Award Value:** SGD 2,770,000 (+ 9% GST)
 **Subject to:** Resolution of all 7 mandatory clarifications below before PO issuance.
 
 **Rationale:**
@@ -483,8 +502,8 @@ Only **Falkor (FES)** has provided a project schedule.
 **Item 2 — Pile Design Basis (CRITICAL)**
 > *"Please provide: pile type, diameter, length, design working load per pile, factor of safety, and geotechnical basis (soil investigation reference) for the 20 piles per tank. Competitors have specified 74–125 piles per tank. If soil investigation is pending, please provide the assumptions used and confirm that the final pile design will be verified against actual soil data before construction."*
 
-**Item 3 — Tank Design Dimensions**
-> *"Please confirm the tank diameter (ID), shell height, and total height assumed in the quotation. Confirm that 1,600 m³ working capacity will be achieved with minimum 150mm freeboard."*
+**Item 3 — Tank Design Dimensions / Capacity Check**
+> *"The FES slide content states tank ID 11,450 mm and height 15,400 mm. Please confirm whether 15,400 mm is shell height or total height, and reconcile these dimensions with 1,600 m³ working capacity and minimum 150mm freeboard. If the final API 650 design requires a taller shell, revised roof geometry, or different operating level, please confirm that this is included within the quoted price."*
 
 **Item 4 — Painting Specification**
 > *"Please provide the proposed painting/coating specification for the external surface of the tank, including surface preparation standard (SSPC/ISO), primer system, topcoat system, number of coats, and target DFT. The current allowance of SGD 12,500 per tank appears low for a tank of this scale. Confirm this is sufficient for the intended system."*
@@ -556,3 +575,246 @@ The following items must be resolved before PO issuance, regardless of which ven
 *Report prepared using: Quotation BC-Q3097/CIL/26 (Falkor, 4 Jun 2026), Quotation CEC/CIL/011R2/26 (Credo, 3 Jun 2026), Quotation SNG/006/01/26 R1 (Synergex, 29 May 2026), FES Engineering Drawings (4 Jun 2026), FES Project Schedule (4 Jun 2026).*
 
 *This report is intended for procurement decision support only. All technical specifications must be confirmed with the selected vendor's final design submission. Final API 650 compliance verification must be performed by a qualified Professional Engineer.*
+
+---
+
+# APPENDIX — SS NEW TANK INSTALLATION WORKS SLIDE CONTENT
+
+<!-- Slide number: 1 -->
+
+![Sustainability Report FY2020](Picture2.jpg)
+SS NEW TANK INSTALLATION WORKS
+Chemical Industries (Far East) Limited
+TANK ID – 11450 mm
+HEIGHT  – 15400 mm
+CAPACITY –  1600m3 X 2 No’s
+BUNDWALL HEIGHT – 2100mm
+PIPING WORKS SS-304L Sch-80 3” 2 No’s_200 METERS.
+
+![](image4png.jpg)
+FALKOR ENGINEERING SERVICES PTE LTD.
+
+<!-- Slide number: 2 -->
+CONTRACTORS DETAILS
+
+MECHANICAL    : FALKOR ENGINEERING SERVICES PTE LTD
+CIVIL                    : FALKOR ENGINEERING SERVICES PTE LTD
+SCAFFOLDING   : FALKOR ENGINEERING SERVICES PTE LTD
+PAINTING           : FALKOR ENGINEERING SERVICES PTE LTD
+ENGINEERING   : K P KOH & PARTNERS PTE LTD
+E&I                      : RADIANT ELECTRICAL PTE LTD
+NDT                     : SNDT
+CALIBRATION    : SNDT
+CRANE                : DENZAI
+WATER                : PUB WATER FOR TANK HYDROTEST
+
+<!-- Slide number: 3 -->
+# TANK LOCATION
+
+![](Picture3.jpg)
+TOTAL – 2 Tanks
+TANK ID – 11450 mm
+HEIGHT  – 15400 mm
+BUNDWALL HEIGHT – 2100mm
+
+<!-- Slide number: 4 -->
+3D View
+
+![](Picture2.jpg)
+Each Tanks 20 Piles
+
+<!-- Slide number: 5 -->
+
+![](Picture2.jpg)
+Ground Level to Tank Bottom Piling Height is 1700mm
+
+![59,575 Human Figure Clothes Royalty ...](Picture11.jpg)
+
+<!-- Slide number: 6 -->
+
+![](Picture2.jpg)
+View -1
+
+<!-- Slide number: 7 -->
+
+![](Picture4.jpg)
+View -2
+
+<!-- Slide number: 8 -->
+
+![](Picture1.jpg)
+Tank Piping Works SS Sch-80 3”(200 Meters x 2 Pipe Lines)
+Only for Reference
+
+<!-- Slide number: 9 -->
+WORK SEQUENCE
+SITE FABRICATION AND ERECTION:
+TO DO LIFTING NEW ANNUALR AND BOTTOM PLATE LAYING.
+TO DO FIT-UP & WELDING FOR ANNULAR AND BOTTOM PLATES.
+1ST & 2ND SHELL COURSES TO DO LIFTING, FITUP & WELDING.
+FOLLOWED SAME SEQUENCE FOR UNTILL LAST SHELL COURSES TO DO FITUP & WELDING.
+T0 DO LIFTING THE ROOF TOP ANGLE AND SUPPORTS FITUP AND WELDING.
+TO  DO RAFTERS ERECTON, FITUP AND WELDING.
+TO DO ROOF PLATES FITUP AND WELDING.
+TO DO REQUIRED NDT INSPECTIONS.
+TO DO WELDING AND PT INSPECTION AS PER APPROVED ITP.
+TO DO ERECTION FOR TANK ROOF HANDRAILS AND ROOF NOZZLES.
+TO DO SHELL NOZZLES FIT UP & WELDING AND PT INSPECTION
+TO DO A TANK HYDRO TEST.
+
+<!-- Slide number: 10 -->
+TANK ANNULAR & BOTTOM PLATE LAYING
+Using Saddle Supports for Shell Plates Mobilization to avoid the Shell Roundness.
+
+![](Picture8.jpg)
+
+![Paper Title (use style: paper title)](Picture2.jpg)
+
+<!-- Slide number: 11 -->
+TANK ANNULAR & BOTTOM PLATE LAYING
+BOTTOM PLATES LIFTING. (If required we will use Spider Bar)
+ANNULAR TO ANNULAR RING LAYING FITUP AND WELDING.
+BOTTOM PLATES LAYING FITUP & WELDING, USING STRONG BACKS & KEY PLATES.
+
+![](object5.jpg)
+
+![](object5.jpg)
+
+<!-- Slide number: 12 -->
+# Shell Plate Erection Methodology:-
+
+![](Picture116.jpg)
+Photos for Reference
+
+![](Picture32.jpg)
+
+![](Picture6.jpg)
+
+![](Picture8.jpg)
+
+<!-- Slide number: 13 -->
+# Shell Plate Erection Methodology:-
+After placing the shell plate on the Annular Plates. Install the C-channel to supports from 1st Shell Plates to the Bottom Plates. Release the lifting  belt.
+After placing the shell plate on the 1st Annular Plates. Install the Strong Back C-channel  in between the u-clamps and lock the shell plate. Release the lifting  belt.
+2nd Shell Course
+
+STRONG BACK
+
+![](object11.jpg)
+1ST Shell Course
+Annular Plates
+Foundation
+
+<!-- Slide number: 14 -->
+# BOTTOM PLATES FITUP AND WELDING
+USING ARC WELDING METHOD TO DO WELDING AT THE ANNULAR AND BOTTOM PLATES.
+
+![](object22.jpg)
+
+![](object22.jpg)
+SCAFFOLDING ERECTION FOR 1ST AND 2ND SHELL COURSE ERECTION.
+
+![](object21.jpg)
+
+![](object198.jpg)
+ BOTTOM PLATES
+
+<!-- Slide number: 15 -->
+# NEW SHELL PLATES ERECTION, FITUP AND WELDING
+
+![](object22.jpg)
+
+![](object21.jpg)
+
+![](object198.jpg)
+
+![](object22.jpg)
+
+![](object21.jpg)
+USING ARC WELDING METHOD TO DO WELDING AT THE SHELL PLATES.
+
+![](object22.jpg)
+
+![](object21.jpg)
+
+![](object22.jpg)
+
+![](object21.jpg)
+
+![](object198.jpg)
+
+4th  SHELL COURSE
+
+![](object198.jpg)
+
+3rd  SHELL COURSE
+
+2nd  SHELL COURSE
+1sT SHELL COURSE
+
+<!-- Slide number: 16 -->
+# ROOF PLATES ERECTION AND WELDING
+
+![](object22.jpg)
+
+![](object21.jpg)
+
+![](object22.jpg)
+
+![](object21.jpg)
+
+ROOF HANDRAILS
+
+ROOF PLATES
+INSTALL TEMPORARY LIFTING LUGS AS PER APPROVED ENGG CALCULATION.
+TO DO FITUP & WELDING AND PT INSPECTION.
+USE MOBILE CRANE TO DO LIFTING THE ROOF RAFTERS AND ROOF PLATES.
+
+![](object21.jpg)
+
+![](object22.jpg)
+
+![](object198.jpg)
+
+![](object21.jpg)
+
+![](object22.jpg)
+
+![](object198.jpg)
+
+5th  SHLL COURSE
+
+![](object198.jpg)
+
+![](object198.jpg)
+4th  SHELL COURSE
+
+3rd  SHELL COURSE
+
+2nd  SHELL COURSE
+1sT SHELL COURSE
+
+<!-- Slide number: 17 -->
+WORK SEQUENCE
+TANK  HANDOVER
+TANK HYDROTEST
+TANK CLEANING
+TANK CALIBRATION
+PSSR
+PUNCH LIST
+PUNCH LIST CLOSING
+TANK BOX-UP
+QC MDR FILE SUBMISSIONS
+
+<!-- Slide number: 18 -->
+PROJECT SCHEDULE
+
+![](Picture5.jpg)
+
+<!-- Slide number: 19 -->
+
+![](object8.jpg)
+
+<!-- Slide number: 20 -->
+
+THANK YOU FOR YOUR KIND ATTENTION!
